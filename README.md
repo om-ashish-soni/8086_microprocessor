@@ -28,6 +28,11 @@
   
   g 100
   
+- h : add sub result of hex numbers
+
+  h 3 2
+  
+
 
  
 
