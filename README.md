@@ -32,6 +32,14 @@
 
   h 3 2
   
+- m : move mermory location from source to destination in bulk
+  
+  m 100 L10 200
+  
+- p : process start address
+
+  p 104
+  
 
 
  
